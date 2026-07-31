@@ -1,0 +1,59 @@
+body {
+
+    background-color: #dff6ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+}
+
+
+h1 {
+
+    color: darkblue;
+    font-size: 40px;
+
+}
+
+
+p {
+
+    color: #333;
+    font-size: 18px;
+
+}
+
+
+iframe {
+
+    border-radius: 10px;
+
+}
+
+
+#box {
+
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    border-radius: 10px;
+
+    position: relative;
+
+    margin: 40px auto;
+
+}
+
+
+button {
+
+    background-color: darkblue;
+    color: white;
+
+    padding: 10px 20px;
+
+    border: none;
+    border-radius: 5px;
+
+    cursor: pointer;
+
+}
